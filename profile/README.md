@@ -1,4 +1,4 @@
-# Incredibox Sprunksters - Create & Mix Amazing Music Online
+# Incredibox Sprunksters - Create Amazing Music Online Free
 
 Sprunksters is an innovative fan-made mod of the popular music game Incredibox, designed to bring a fresh and chaotic twist to music creation. This vibrant game allows players to compose unique tracks by blending various characters and sounds, making it a captivating experience for music enthusiasts and casual gamers alike.
 
